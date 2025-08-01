@@ -1,11 +1,10 @@
 
 # Dirty COW Educational PoC (CVE-2016-5195)
 
-## ⚠️ Legal Warning / هشدار قانونی
+## ⚠️ Legal Warning
 
 **This code is for EDUCATIONAL PURPOSES ONLY. Any malicious use is strictly prohibited and illegal.**
 
-**این کد فقط برای اهداف آموزشی است. هرگونه استفاده مخرب کاملاً غیرقانونی و ممنوع است.**
 
 ## 📖 What is Dirty COW?
 
